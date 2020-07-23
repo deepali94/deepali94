@@ -20,4 +20,3 @@
 - 🌱 I’m currently learning Machine Learning Algorithms
 - 📫 How to reach me: deepalivinay94@gmail.com
 
--->
